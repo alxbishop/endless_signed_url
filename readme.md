@@ -1,6 +1,6 @@
 ### Endless UP42 Signed URL
 
-This programe continuously validates an UP42 signed url for a given stac_item in your data management/storage space. It creates a GDAL .vrt file so that you can conveniently load the streamed raster data into any GIS software or other wed apps that can read GDAL .vrt virtual files.
+This program continuously validates an UP42 signed url for a given stac_item in your data management/storage space. It creates a GDAL .vrt file so that you can conveniently load the streamed raster data into any GIS software or other wed apps that can read GDAL .vrt virtual files.
 
 To run the python program you must have GDAL installed and an UP42 account.
 
